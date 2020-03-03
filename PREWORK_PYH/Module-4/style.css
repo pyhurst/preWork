@@ -1,0 +1,57 @@
+/* CSS Document */
+
+h1 {
+    text-align: center;
+    font-size: 54px;
+    margin: 130px;
+}
+
+.faceShot {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 300px;
+}
+
+.logo {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 300px;
+    width: 300px;
+}
+
+body {
+    background-color: rgb(83, 201, 248);
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    width: 50%;
+    margin-left: 25%;
+}
+
+caption {
+    font-weight: bold;
+    font-size: 24px;
+    color: red;
+    margin: 5px;
+}
+
+th {
+    font-size: 18px;
+    color: red;
+}
+
+td {
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.tribute {
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+1) Added quotes around "pink" for #textPink
+
+2) Added quotes around "click for #bowGrow and # bowShrink
+
+3) Changed link to js file from error to logic
+
+4) Changed button ids to correct color link
+
+5) Moved the position of buttons above random facts and flipped the grow/shrink to the left side
+with the color buttons to the right
+
+6) Added the wiki link inside of the href quotes
+
+7) Added <li> tags to the favorite things list
+
+8) Added <h1> tags around 'Boo The Dog Fan Page!'
+
+9) Removed 'introdcution' section
+
+10) Added <p> tags under 'panel-body'
+
+11) Added < around the image tag
+
+12) Added / before div under the 2nd div tag under wiki link

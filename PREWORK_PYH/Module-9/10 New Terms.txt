@@ -1,0 +1,31 @@
+﻿10 New Terms
+
+
+1. MVC Framework - Stands for model-view-controller which are the 3 connected elements, model, view, and controller. Types of javascript frameworks are angular js, backbone js, and knockout js. 
+
+
+2. SSRS - Stands for SQL Server Reporting Services that include SSAS and SSIS. It can prepare and deliver formatted reports and tables like graphs, images, and charts which can be defined by the user.
+
+
+3. Perl - Is a general-purpose, interpreted programming language and has the market in paint splatter programming and running Deloreans
+
+
+4. XML - Extensible Markup Language. A way to send and store data using the public internet or corporate networks and sets rules that format the document for human and machine readability. 
+
+
+5. CMS - Content Management System. Uses a database to manage all content
+
+
+6. CSS Preprocessors (SASS/LESS) - CSS extension that allows you to use variables, nested rules, and inline imports.
+
+
+7. Task Runners - Grunt and Gulp. These applications automate common development tasks like linting, building, or testing your project.
+
+
+8. Markdown - Lightweight markup language and plain-text formatting syntax
+
+
+9. AJAX - Set of techniques on the client side so web applications may send and retrieve data without interfering with the behavior of the website. 
+
+
+10. Wireframes - Aka page schematic or screen blueprint.  Used early in the development stage and for basic structure of a website before design and content is added.
